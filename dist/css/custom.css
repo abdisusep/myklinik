@@ -1,0 +1,72 @@
+* {
+    font-family: 'Nunito', sans-serif !important;
+}
+
+.dropdown-toggle::after {
+    display:none;
+}
+
+.btn-nav{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 6px;
+}
+
+.btn-nav .nav-link{
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    border-radius: 0.375rem;
+    background-color: #f8f9fa;
+    border-radius: 0.6rem !important;
+}
+
+.rounded{
+    border-radius: 0.6rem !important;
+}
+
+.sb-sidenav-menu .nav-link {
+    font-size: 15px !important;
+}
+
+.shadow-sm{
+    box-shadow: 0 0.15rem 1.75rem 0 #98979c26 !important;
+}
+
+.sb-topnav {
+    background-color: #ffffff !important;
+    border-bottom: 1px solid #eceef5b3 !important; 
+}
+
+.sb-sidenav{
+    border-right: 1px solid #eceef5b3 !important; 
+}
+
+.sb-sidenav-footer{
+    border-top: 1px solid #eceef5b3 !important; 
+}
+
+.logo-welcome{
+    width: 200px;
+    height: auto;
+}
+
+.nav-link:hover {
+    color: #8fc83d !important;
+}
+
+.sidebarToggle:hover{
+    color: #8fc83d !important;
+}
+
+.dropdown-menu{
+    border: none;
+    font-size: 14px;
+}
+
+.dropdown-item:hover{
+    color: #8fc83d !important;
+}
+
+.dropdown-item:active{
+    background-color: #f8f9fa !important;
+}
