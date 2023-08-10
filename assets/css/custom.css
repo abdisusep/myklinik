@@ -237,3 +237,11 @@
     background-color: #198754 !important;
     border-color: #198754 !important;
 }
+
+.sb-nav-link-icon{
+    padding-top: 3px !important;
+}
+
+.bx-sm{
+    font-size: 1.25rem!important;
+}
